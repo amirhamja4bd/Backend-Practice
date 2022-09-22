@@ -1,0 +1,21 @@
+uName--amirhamja
+email--wedahe8373@oncebar.com
+pass--y8q3YcmEedKXNtkj
+
+
+
+//pass--7r@8rQ(nwDC-f$9
+
+
+
+
+
+
+local mongosh
+================================================================
+C:\mongosh-1.5.4\bin>mongosh
+Current Mongosh Log ID: 631fabc5c405f96262938d36
+Connecting to:          mongodb://127.0.0.1:27017/?directConnection=true&serverSelectionTimeoutMS=2000&appName=mongosh+1.5.4
+
+Using MongoDB:          6.0.1
+Using Mongosh:          1.5.4

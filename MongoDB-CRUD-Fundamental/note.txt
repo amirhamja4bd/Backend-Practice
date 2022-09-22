@@ -1,0 +1,8 @@
+1 var mongoClient=require ('mongodb(modiul eta)').MongoClient; import korte hobe
+2 st a database connect er url nite hobe 
+3 modiul import korechi oi var.connect(url er var, calback(error, )ebar if condition)
+4 Ebar InsertData name function nitehobe & tar paramiter ditehobe jar maddhome data jabe & oi paramiter ta uporer callback()er moddhe diye jabe & else condition a dicliar korte hobe.
+5 tarpor ekta var er moddhe oi paramiter.db('db name dite hobe');
+6 ar ekta var er moddhe ager liner var mydatabase.collection('collection name dite hobe')
+7 ebar var er moddhe amar data rakhte hobe 
+8 ebar collection var.insertOne(myData ,Callback(){.........})
